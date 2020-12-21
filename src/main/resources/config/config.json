@@ -1,0 +1,9 @@
+{
+  "dataStartRow":1,
+  "dataStartCol":2,
+  "appendToOriginalTable":true,
+  "dataPath":"data",
+  "aqiConfig":"config/aqi_config_daily.json",
+  "result_file_prefix":"result_",
+  "result_col_offset":8
+}
